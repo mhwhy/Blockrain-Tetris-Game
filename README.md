@@ -1,2 +1,2 @@
 # Blockrain-Tetris-Game
-Implementasi dan clone Game Tetris
+Implementasi clone game legendaris Tetris
